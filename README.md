@@ -1,3 +1,6 @@
+![GitHub top language](https://img.shields.io/github/languages/top/{username}/{repo-name}?color=green)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/{username}/{repo-name})
+<br>
 # Anki decks overview
 This is a basic anki deck template, specifically made for language learning. I've been using anki for many years to study Japanese and other languages, it's a great free software which makes use of a modified SRS algorithm (Space Repetition System) to help you remember vocabulary, concepts and pretty much anything else you want.
 <br>
@@ -6,7 +9,7 @@ Anki is often used to boost your language learning experience, but it can also b
 <br>
 You can find most decks here > https://ankiweb.net/shared/decks , and you can also download a plethora of add-ons to customize your anki here > https://ankiweb.net/shared/addons 
 (I recommend "more overview stats", "review heatmap" and "true retention")
-
+<br><br>
 
 ## Deck features
 
@@ -16,14 +19,11 @@ You can find most decks here > https://ankiweb.net/shared/decks , and you can al
 
 - Formats the HTML created by Yomichan (or any other extension you might use) to create switchable definitions using the arrow keys or mouse-click.
 
-- Works well both in the mobile and desktop version of anki. Hides the images in the mobile automatically but you can disable this function.
+- Works well in both the mobile and desktop version of anki. <br><br>
 
-
-## Cards samples
-here's a few samples from my deck, which I'm using to study Japanese. You can add images and/or videos, or you can simply have text with or without audio. It's completely up to you how you want to customize the cards.
-
--- -- 
+## Card samples
+here's a few samples from my deck, which I'm using to study Japanese. You can add images and/or videos, or you can simply have text with or without audio. It's completely up to you how you want to customize the cards.<br><br>
 
 ## Download
-you can download the deck directly from here >
+you can download the deck directly from here > /// 
 
