@@ -26,5 +26,12 @@ You can find most decks here > https://ankiweb.net/shared/decks , and you can al
 here's a few samples from my deck, which I'm using to study Japanese. You can add images and/or videos, or you can simply have text with or without audio. It's completely up to you how you want to customize the cards.<br><br>
 
 ## Download
-you can download the deck directly from here > /// 
+you can download the deck directly from here > /// \
+
+```diff
+@@ purple @@
++ green
+```
+
+**bold** *italic* 
 
