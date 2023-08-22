@@ -1,2 +1,2 @@
-# Anki_deck (language learning)
+# Anki_deck template
 # wwwww
