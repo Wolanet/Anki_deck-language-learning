@@ -23,9 +23,17 @@ You can find most decks here > https://ankiweb.net/shared/decks , and you can al
 - Works well in both the mobile and desktop version of anki. <br><br>
 
 ## Card samples
-here's a few samples from my deck, which I'm using to study Japanese. You can add images and/or videos, or you can simply have text with or without audio. It's completely up to you how you want to customize the cards.
+here's a few samples from my deck, which I'm using to study Japanese. It's completely up to you how you want to customize the cards, you can have only text, or text + audio, or add video/images from whatever anime or tv show or any other material you're using to learn from.
+<br>
 
-![cardjp](https://github.com/Wolanet/Anki_deck-language-learning/assets/139185774/b334df56-b9ff-4469-9237-0a21f748a90e)
+**card with japanese definition**
+![Sample image]
+
+**card with english definition**
+
+<br>
+
+**card with text, audio and image**
 
 
 
