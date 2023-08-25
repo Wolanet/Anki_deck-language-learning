@@ -17,7 +17,7 @@
 <p>{{Audio}}{{SentenceAudio}}</p>
 
 <script>
-// Cycable definition
+// Cycle definitions
 var definitions_items = document.getElementById('glossary-field').querySelectorAll('li')
 if (definitions_items.length > 0) {
     let definition_list = [];
@@ -58,7 +58,7 @@ if (definitions_items.length > 0) {
     document.getElementById('glossary-field').addEventListener("click", replace_glossary)
     document.addEventListener("keydown", replace_glossary_arrow_key)
 }
-// If there is only on definition, attempt to clean it up.
+
 else {
     let definition = document.getElementById('glossary-field').innerHTML.toString();
     definition = definition.replace(/(<br>)+\s*$/g, "");
@@ -70,7 +70,7 @@ else {
     }
     
 }
-// Remove 'No pitch accent data' text
+// hide 'No pitch accent data'
 if (document.getElementById('accent-graph').innerHTML === "No pitch accent data") {
     document.getElementById('accent-graph').style.visibility = "hidden"
 }
