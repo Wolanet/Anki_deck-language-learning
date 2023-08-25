@@ -31,7 +31,7 @@ You can find most decks here > https://ankiweb.net/shared/decks , and you can al
 
   
 
-## How to use the html files
+## How to use the html/css files
 
 Open a card in Anki by using this deck, then go to ```Edit > Cards```.
 Go to the folder here "AnkiFields-html" and copy the text from ```front.html``` to ```Front``` (the field in your Anki deck you opened), from ```back.html``` to ```Back``` and from ```styling.css``` to ```Styling```.
