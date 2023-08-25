@@ -15,36 +15,45 @@ You can find most decks here > https://ankiweb.net/shared/decks , and you can al
 **You can find the download link for this specific deck template at the bottom of this page.**
 <br>
 
+
 ## Deck features
 
-- Works perfectly with the Yomichan extension, which is pretty much mandatory for studying Japanese and mining (=creating cards) words.
+- This deck is optimized for **single words** (studying vocabulary), which is what I'd recommend over making sentence cards.
 
-- There is a field for the example sentence, that is, it's gonna automatically add the sentence you mine the word from.
+- Works perfectly with the Yomichan extension, which you should use if you're studying Japanese and mining words (=creating cards).
 
-- Formats the HTML created by Yomichan (or any other extension you might use) to create switchable definitions using the arrow keys or mouse-click.
+- There is a field for the example sentence, it will contain the sentence you mine the word from.
 
-- Works well in both the mobile and desktop version of anki. <br><br>
+- It creates switchable definitions. You can switch using the arrow keys or mouse-click.
 
-** Anki fields: fields are the main "building blocks" for cards --
+- Works for both the mobile and desktop version of anki. <br>
+
+  
+
+## How to use the html files
+
+Open a card in Anki by using this deck, then go to ```Edit > Cards```.
+Go to the folder here "AnkiFields-html" and copy the text from ```front.html``` to ```Front``` (the field in your Anki deck you opened), from ```back.html``` to ```Back``` and from ```styling.css``` to ```Styling```.
+<br>
 
 ## Card samples
-here's a few samples from my deck, which I'm using to study Japanese. It's completely up to you how you want to customize the cards, you can have only text, or text + audio, or add video/images from whatever anime or tv show or any other material you're using to learn from.  
+here's a few samples from my deck, which I'm using to study Japanese. It's completely up to you how you want to customize the cards, you can have only text, or text + audio, or add video/images from whatever anime or tv show or any other material you're using to learn from.
+<br>  
 
-
-**card with japanese definition**  
+**Card with japanese definition**
 
 ![Sample image1](image%20samples/card_japanese_def.png)
 
-**card with english definition**  
+**Card with english definition**  
 
 ![Sample image1](image%20samples/card_english_definition.png)  
 
-**card with text, extra source audio and image** (download your preferred software to capture audio and video/images, then simply drag the file on the respective anki field) 
+**Card with text, extra source audio and image** (download your preferred software to capture audio and video/images, then simply drag the file in the respective anki field) 
 
 ![Samplooo image1](image%20samples/cardjp_with_picture.png)
 
-
 <br><br>
+
 ## Download
 you can download the deck directly from here > ///
 
