@@ -33,8 +33,8 @@ You can find most decks here > https://ankiweb.net/shared/decks , and you can al
 
 ## How to use the html/css files
 
-Open a card in Anki by using this deck, then go to ```Edit > Cards```.
-Go to the folder here "AnkiFields-html" and copy the text from ```front.html``` to ```Front``` (the field in your Anki deck you opened), from ```back.html``` to ```Back``` and from ```styling.css``` to ```Styling```.
+Open you new deck in Anki then go to ```Browse > Cards...```. If you can't find the ```Cards...``` button, it should be in the middle of the window you just opened, between ```Fields...``` and ```Preview```.
+Then go to the folder here "AnkiFields-html" and copy the text from ```front.html``` to ```Front```, from ```back.html``` to ```Back``` and from ```styling.css``` to ```Styling```.
 <br>
 
 ## Card samples
