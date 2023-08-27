@@ -13,7 +13,7 @@ Anki is often used with language learning, but it can also be an extremely usefu
 You can find most decks here > https://ankiweb.net/shared/decks , and you can also download a plethora of add-ons to customize your anki here > https://ankiweb.net/shared/addons 
 (I recommend "more overview stats", "review heatmap" and "true retention").   
 
-**You can find the download link for this specific deck template at the bottom of this page.**
+**You can find the download link for this specific deck template at the bottom of this page.** Or you can modify a new deck yourself with the html/css files in here.
 <br>
 
 
@@ -53,11 +53,7 @@ here's a few samples from my deck, which I'm using to study Japanese. It's compl
 
 ![Samplooo image1](image%20samples/cardjp_with_picture.png)
 
-<br><br>
 
 ## Download
-you can download the deck directly from here > ///
-
-
-
+you can download the deck directly from here > //
 
