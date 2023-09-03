@@ -2,7 +2,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/Wolanet/Anki_deck-language-learning?color=green)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Wolanet/Anki_deck-language-learning?color=red)
 
-# Anki general overview
+# 🧱 Anki general overview
 This is a **basic anki deck template**, specifically made for language learning. 
 I've been using anki for many years to study Japanese and other languages, it's a great open-source free software which makes use of a modified SRS algorithm (Space Repetition System) to help you remember vocabulary, concepts and pretty much anything you want.
 
@@ -18,7 +18,7 @@ You can find most shared decks here > https://ankiweb.net/shared/decks , and you
 <br>
 
 
-## Deck features
+## 📕 Deck features
 
 - This deck is optimized for **single words** (studying vocabulary), which is what I'd recommend over making sentence cards.
 
