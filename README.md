@@ -41,11 +41,11 @@ Then go to the folder here "AnkiFields-html" and copy the text from ```front.htm
 Here's a few samples from my deck, which I'm using to study Japanese. It's completely up to you how you want to customize the cards, you can have only text, or text + audio, or add video/images from whatever material you're using to learn from. In these samples, the font size has been increased by roughly 20% compared to the size you'll find by default in the deck. 
 <br>  
 
-**Card with japanese definition**
+**Card with Japanese definition**
 
 ![Sample image1](image%20samples/card_japanese_def.png)
 
-**Card with english definition**  
+**Card with English definition**  
 
 ![Sample image1](image%20samples/card_english_definition.png)  
 
