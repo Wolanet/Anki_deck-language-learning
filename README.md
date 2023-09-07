@@ -3,8 +3,8 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Wolanet/Anki_deck-language-learning?color=red)
 
 # 🧱 Anki general overview
-This is a **basic anki deck template**, specifically made for language learning. 
-I've been using anki for many years to study Japanese and other languages, it's a great open-source free software which makes use of a modified SRS algorithm (Space Repetition System) to help you remember vocabulary, concepts and pretty much anything you want.
+This is a **basic anki deck template**, specifically made for language learning.
+I've been using anki for many years to study Japanese and other languages, it's a great open-source free software which makes use of a modified SRS algorithm (Spaced Repetition System) to help you remember vocabulary, concepts and pretty much anything you want.
 
 An anki deck is a "collection of cards", that is a collection of whatever vocabulary or concept you'd like to remember, each new word or concept you have in your deck is a "card". You can either make a deck yourself from scratch, download templates or download pre-made decks.
 
