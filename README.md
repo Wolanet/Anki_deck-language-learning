@@ -8,7 +8,7 @@ I've been using anki for many years to study Japanese and other languages, it's 
 
 An anki deck is a "collection of cards", that is a collection of whatever vocabulary or concept you'd like to remember, each new word or concept you have in your deck is a "card". You can either make a deck yourself from scratch, download templates or download pre-made decks.
 
-Anki is often used with language learning, but it can also be an extremely useful tool to help you with pretty much anything you'd like to learn and remember, for example I've used it multiple times to prepare for exams or tests. **Currently I'm using it to also study for the CCNA IT certification.**
+Anki is often used with language learning, but it can also be an extremely useful tool to help you with pretty much anything you'd like to learn and remember, for example I've used it multiple times to prepare for exams or tests. **Currently I'm using it to keep improving my Japanese while also studying for IT certifications.**
 
 Just don't overdo it or you'll find yourself with too many reviews per day and you won't be able to keep up, ideally you shouldn't be doing anki for more than 30-45 minutes a day.
 You can find most shared decks here > https://ankiweb.net/shared/decks , and you can also download a plethora of add-ons to customize your anki here > https://ankiweb.net/shared/addons 
